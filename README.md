@@ -1,1 +1,1 @@
-# KenyaNottes
+# KenyaNotes
