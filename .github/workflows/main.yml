@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>KenyaNotes</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #e8f0fe; /* soft academic blue */
+      color: #1a237e;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #1565c0;
+      color: white;
+      padding: 20px 0;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 2em;
+      letter-spacing: 1px;
+    }
+
+    p.tagline {
+      margin: 5px 0 0;
+      font-size: 1.1em;
+      font-weight: 400;
+    }
+
+    .buttons {
+      margin: 40px 0;
+    }
+
+    .buttons a {
+      text-decoration: none;
+      background-color: #1565c0;
+      color: white;
+      padding: 12px 25px;
+      border-radius: 8px;
+      margin: 10px;
+      display: inline-block;
+      transition: background 0.3s;
+    }
+
+    .buttons a:hover {
+      background-color: #0d47a1;
+    }
+
+    footer {
+      margin-top: 40px;
+      padding: 20px;
+      font-size: 0.9em;
+      background-color: #f1f1f1;
+    }
+
+    footer p {
+      margin: 8px 0;
+    }
+
+    @media (max-width: 600px) {
+      h1 {
+        font-size: 1.6em;
+      }
+      .buttons a {
+        display: block;
+        width: 60%;
+        margin: 15px auto;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>KenyaNotes</h1>
+    <p class="tagline">Your hub for university notes and past papers</p>
+  </header>
+
+  <section class="buttons">
+    <a href="https://1drv.ms/f/c/02c8760e952247f7/EpHHz9C9RO9Ain5JE9R9f4ABKSebGMmu4j04j07XUSjVHQ" target="_blank">View Notes</a>
+    <a href="https://forms.gle/yourformlink" target="_blank">Upload Notes</a>
+  </section>
+
+  <footer>
+    <p>📞 Contact Admin: WhatsApp <strong>0769924553</strong></p>
+    <p>📧 Email: <strong>dioufigonyi489@gmail.com</strong></p>
+    <p><small>All uploads are verified by the admin before being shared.</small></p>
+  </footer>
+
+</body>
+</html>
